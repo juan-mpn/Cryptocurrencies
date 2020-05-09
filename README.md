@@ -2,7 +2,7 @@
 
 ![alt text](https://github.com/juan-mpn/Cryptocurrencies/blob/master/Resources/k-mean.png)
 
-##The goals for this challenge are for you to:
+## The goals for this challenge are for you to:
 
 1. Prepare the data for dimensions reduction with *PCA* and clustering using *K-means*.
 2. Reduce data dimensions using PCA algorithms from **sklearn**.

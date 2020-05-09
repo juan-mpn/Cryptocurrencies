@@ -16,3 +16,6 @@ Clustering Cryptocurrencies Using K-means
 - 3D Plot
 - hvplot.table
 
+**Challenge 18**
+url: 
+*https://github.com/juan-mpn/Cryptocurrencies/blob/master/Challenge18.ipynb*

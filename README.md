@@ -1,6 +1,6 @@
 # Cryptocurrencies
 
-![alt text](https://slack-imgs.com/?c=1&o1=ro&url=https%3A%2F%2Fmiro.medium.com%2Fmax%2F770%2F0*HFx1Rpoabh5lOAQj.jpg)
+![alt text](https://github.com/juan-mpn/Cryptocurrencies/blob/master/Resources/k-mean.png)
 
 ##The goals for this challenge are for you to:
 
